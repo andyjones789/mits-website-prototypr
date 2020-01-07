@@ -20,7 +20,7 @@ jobs:
         # extended: true
 
     - name: Build
-      run: hugo --config -c ./mits/config.toml ./mits --minify
+      run: hugo --config ./mits/config.toml -c ./mits --minify
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2
