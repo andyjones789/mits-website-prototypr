@@ -7,10 +7,12 @@ buildDrafts = "true"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
+SectionPagesMenu = "sections"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+
+staticDir = "static"
 
 [sitemap]
   changefreq = "monthly"
@@ -21,7 +23,7 @@ enableRobotsTXT = true
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = "https://twitter.com/makeitsimpleuk"
   instagram = ""
   youtube = ""
   github = ""

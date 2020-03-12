@@ -2,6 +2,9 @@
 title: "About"
 date: 2020-01-03T19:57:37Z
 draft: false
+menu: 
+    main:
+        weight: 10
 ---
 
 Make IT Simple are a motley band of brothers (and sisters). We work together because we like each other and because quite frankly, no one else would have us. A band of misfits. 
