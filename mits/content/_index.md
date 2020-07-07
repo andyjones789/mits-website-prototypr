@@ -13,6 +13,7 @@ What sorts of people do we work with?
 - Small to medium, usually owner operated businesses
 
 Why are we good at it?
+- It's all we do. It's different building a product for you to sell vs use internally
 - We've done it forever (15 years)
 - Because we also do it ourselves
 
