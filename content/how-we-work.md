@@ -2,6 +2,9 @@
 title: "How We Work"
 date: 2020-03-12T16:11:38Z
 draft: true
+menu: 
+    main:
+        weight: 100
 ---
 
 Off-the-shelf -> Customised -> Bespoke
@@ -25,11 +28,11 @@ ___
 
 We have the following skill sets and some share and some people do one on one:
 
-Solutions architecture
-Systems analysis and business analysis
-project management
-DevOps
-quality assurance
-development
-ui/ux design
-design implementation / aesthetics
+* Solutions architecture
+* Systems analysis and business analysis
+* project management
+* DevOps
+* quality assurance
+* development
+* ui/ux design
+* design implementation / aesthetics
