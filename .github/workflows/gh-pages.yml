@@ -21,6 +21,12 @@ jobs:
 
     - name: Build
       run: hugo --minify; mv ./public ..
+      
+    - name: List Root
+      run: ls 
+
+    - name: List Public
+      run: ls ./public
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2
