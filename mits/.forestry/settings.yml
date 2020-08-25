@@ -5,41 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: mits/content/skills
-  label: Skills
-  create: all
-  match: "**/*"
-- type: directory
-  path: mits/content/services
-  label: Services
-  create: all
-  match: "**/*"
-- type: directory
-  path: mits/content/qanda
-  label: Qanda
-  create: all
-  match: "**/*"
-- type: directory
-  path: mits/content/previous-work
-  label: Previous work
-  create: all
-  match: "**/*"
-- type: directory
-  path: mits/content/posts
-  label: Posts
-  create: all
-  match: "**/*"
-- type: directory
-  path: mits/content/industries
-  label: Industries
-  create: all
-  match: "**/*"
-- type: directory
-  path: mits/content
+  path: content
   label: Content
   create: all
-  match: "*"
-upload_dir: mits/static/uploads
+  match: "**/*"
+upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
