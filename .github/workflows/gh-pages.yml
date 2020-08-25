@@ -20,7 +20,7 @@ jobs:
         # extended: true
 
     - name: Build
-      run: cd mits; hugo --minify; mv ./public ..
+      run: cd mits; cd themes; git clone https://github.com/budparr/gohugo-theme-ananke.git; cd..; hugo --minify; mv ./public ..
       
     - name: List Root
       run: ls 
@@ -30,4 +30,4 @@ jobs:
       env:
         ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         PUBLISH_BRANCH: gh-pages
-        PUBLISH_DIR: ./
+        PUBLISH_DIR: ./public
