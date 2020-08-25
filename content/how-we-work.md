@@ -1,12 +1,12 @@
 ---
-title: "How We Work"
-date: 2020-03-12T16:11:38Z
+title: How We Work
+date: 2020-03-12T16:11:38.000+00:00
+menu:
+  main:
+    weight: 4
 draft: true
-menu: 
-    main:
-        weight: 100
----
 
+---
 Off-the-shelf -> Customised -> Bespoke
 
 Working with us

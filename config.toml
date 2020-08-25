@@ -1,37 +1,31 @@
-baseURL = "https://andyjones789.github.io/mits-website-prototype/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
-buildDrafts = "true"
-
-
-MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
+MetaDataFormat = "yaml"
+Paginate = 3
 SectionPagesMenu = "sections"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+baseURL = "https://andyjones789.github.io/mits-website-prototype/"
+buildDrafts = "true"
 enableRobotsTXT = true
-
+googleAnalytics = ""
+languageCode = "en-us"
 staticDir = "static"
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
-
+theme = "ananke"
+title = "My New Hugo Site"
 [params]
-  favicon = ""
-  description = "The last theme you'll ever need. Maybe."
-  facebook = ""
-  twitter = "https://twitter.com/makeitsimpleuk"
-  instagram = ""
-  youtube = ""
-  github = ""
-  gitlab = ""
-  linkedin = ""
-  mastodon = ""
-  slack = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 2
+background_color_class = "bg-black"
+description = "The last theme you'll ever need. Maybe."
+facebook = ""
+favicon = ""
+featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+github = ""
+gitlab = ""
+instagram = ""
+linkedin = ""
+mastodon = ""
+recent_posts_number = 2
+slack = ""
+twitter = "https://twitter.com/makeitsimpleuk"
+youtube = ""
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5

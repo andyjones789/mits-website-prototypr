@@ -1,12 +1,11 @@
 ---
-title: "About"
-date: 2020-01-03T19:57:37Z
-draft: false
-menu: 
-    main:
-        weight: 10
----
+title: About
+date: 2020-01-03T19:57:37.000+00:00
+menu:
+  main:
+    weight: 1
 
+---
 Make IT Simple are a motley band of brothers (and sisters). We work together because we like each other and because quite frankly, no one else would have us. A band of misfits. 
 
 ## Why do we do it?
@@ -19,6 +18,4 @@ Fundamentally we are split into two teams - "dev" and "non dev". Each team would
 
 "Dev" is fairly self explanatory. They are software developers, software engineers, programmers, coders, whatever. This is by far the larger of the teams here at Make IT Simple. 
 
-"Non dev" is a bit more wide ranging. They are those that do the work ahead of, during and after development to make it go smoothly. Speaking to clients, writing specifications, doing estimates, project planning, managing schedules, testing the work and hand holding the client. 
-
-
+"Non dev" is a bit more wide ranging. They are those that do the work ahead of, during and after development to make it go smoothly. Speaking to clients, writing specifications, doing estimates, project planning, managing schedules, testing the work and hand holding the client.
