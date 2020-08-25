@@ -20,7 +20,7 @@ jobs:
         # extended: true
 
     - name: Build
-      run: cd mits; cd themes; git clone https://github.com/budparr/gohugo-theme-ananke.git ananke; mv  cd ..; hugo --minify; mv ./public ..
+      run: cd mits; cd themes; git clone https://github.com/budparr/gohugo-theme-ananke.git ananke; cd ..; hugo --minify; mv ./public ..
       
     - name: List Root
       run: ls 
