@@ -6,16 +6,15 @@ menu:
     weight: 1
 
 ---
-Make IT Simple are a motley band of brothers (and sisters). We work together because we like each other and because quite frankly, no one else would have us. A band of misfits. 
+At Make IT Simple, we believe one of the things that sets us apart is that we all like each other, so we enjoy working creatively together (at least, we all like each other after we’ve had our morning coffee).
 
-## Why do we do it?
+We are a motley crew of brothers and sisters with a passion for creating and bringing ideas to life. Truth be told, if we weren’t doing this for work, we’d be doing it for fun. That’s just how nerdy we are.
 
-Because we love the game. We love creating. Every last one of us would be doing this even if we had to do something else for work. Building technology from scratch for a wide range of clients is hard. We are all totally committed to every single project. Often to the detriment of our families and social lives. The amount of food we've burnt when we've just popped back to check on Slack whilst it's cooking...
+## What We Do
 
-## What are our skills
+Even though we’re one big happy family, we do divide ourselves into two groups. Don’t worry, it’s not a competition or anything (depending on the day). Realistically, nothing would get done if these two teams didn’t work side by side to create something beautiful together. Our two teams are:
 
-Fundamentally we are split into two teams - "dev" and "non dev". Each team would argue they are the most important and nothing would get done without them. Clearly it takes two to tango. Nothing gets done without both working in beautiful harmony.
+* Dev: Our “devs” are the developers within the company. They’re responsible for software creation, programming, coding, and anything else that involves endless hours behind a computer screen (and again, lots of caffeine!).
+* Non-Dev: Our “non-devs” are a slightly smaller group at Make IT Simple, but no less important. This team has a wider range of responsibilities, doing the work before, during, and after development. They’re in charge of speaking to clients, managing schedules, project planning, and so much more. Simply put, they keep things running smoothly around here.
 
-"Dev" is fairly self explanatory. They are software developers, software engineers, programmers, coders, whatever. This is by far the larger of the teams here at Make IT Simple. 
-
-"Non dev" is a bit more wide ranging. They are those that do the work ahead of, during and after development to make it go smoothly. Speaking to clients, writing specifications, doing estimates, project planning, managing schedules, testing the work and hand holding the client.
+We’re proud of every single person on our team and their dedication to creativity and development. That’s what Make IT Simple is really all about.
