@@ -4,29 +4,27 @@ date: 2020-03-12T16:11:38.000+00:00
 menu:
   main:
     weight: 4
-draft: true
 
 ---
-Off-the-shelf -> Customised -> Bespoke
+Most business owners choose to start up a company because they have a specific passion or area of knowledge. More often than not, that area of knowledge doesn’t include things like how to design and build a successful digital product, including web/mobile apps.
 
-Working with us
-___
-It's rare we take exactly what a client wants and build it. 
-There's a reason for that - they know their business, but they don't know what technology can achieve. Especially in the timescales and budget they are looking at.
-We've even turned a client's business model on it's head and opened up huge opportunity for them. We use the motto - we have two ears and one mouth for a good reason. Listen, think, advise. We'll push hard if we think there is a better way to do something. We're all part of a team where mutual success is key.
+That’s where we step in as a fully customised, bespoke software company.
 
+## How We Work
 
-Our Process
-___
+When a client approaches us with what they want, it’s rare for us to just build and create it. Instead, we dig deeper into what they’re trying to achieve, and bring forward some of our own creative ideas that they hadn’t thought of. for (within their timeframe and budget) using technology. Our motto around here is; we have two ears and one mouth for a good reason. We take listening to our clients very seriously, but we also consider it our job to advise what could be done in order to make their project and their business even bigger and better.
 
-Having done this for 15 years we have some idea on what works and what doesn’t. 
+Mutual success is key, and we strive to help all of our clients be more efficient in their efforts.
 
-Our approach currently is a hybrid of both agile and traditional waterfall. We see benefits in both and we get the best out of both, so we take the larger view at the start of the waterfall approach, using a Gannt chart, so we have some concept of how long the project is going to take and what are the key milestones. Rather than expecting a client to know every part of the process at the outset, we start with the basic outline and then work on usually two weeks sprints, where we are scoping as we go. This has produced the best result so far and we continue to do it. 
+## Our Process
 
-Our Skills
-___
+We have been in business for 15 years, but our combined experience goes well beyond that. So, tend to know which things work best for specific businesses. Our company focuses on a hybrid approach of both agile and waterfall methods, using a Gannt chart to determine the length of each project and which milestones we’re looking to achieve.
 
-We have the following skill sets and some share and some people do one on one:
+Our process includes starting with a basic outline and working in two-week sprints. We have found that this is the best way for us to get things done effectively while making sure the client knows what they’re getting.
+
+## Our Skills
+
+If you’re in the business world and you know that technology can take you to the next level, don’t be afraid to contact us. The key roles in our business are:
 
 * Solutions architecture
 * Systems analysis and business analysis
@@ -36,3 +34,5 @@ We have the following skill sets and some share and some people do one on one:
 * development
 * ui/ux design
 * design implementation / aesthetics
+
+Utilizing the right software programs can make a big difference for businesses big and small, and with our knowledge, experience, and passion, we can create unique, custom digital products for your company to take you to new heights of success.
