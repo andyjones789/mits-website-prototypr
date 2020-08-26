@@ -1,13 +1,20 @@
 ---
-title: "Ui Ux"
-date: 2020-01-03T20:17:05Z
-draft: true
+title: Ui Ux
+date: 2020-01-03T20:17:05.000+00:00
+
 ---
+Functional technology is easy. That’s especially true in today’s world where it can often feel like developers are a dime a dozen. Admittedly, we started out that way, too. When we were met with a task, we got the job done, and there was nothing wrong with any of those projects.
 
-We started the business, we were building technology for users that was perfectly functional. We did the job and it worked at scale but I would not say it was usable, and it was certainly not attractive. The thing we learnt over a number of years is no matter how functional something is, if it's not obvious to the user how to use it or it's not a joy to use, they are not going to get the most out of using it. 
+But, it wasn’t sustainable, and looking back, it wasn’t usable or attractive. Over our years of experience and advancements in technology, we have learned that it doesn’t necessarily matter how functional something is if it’s not easy to use and enjoyable.
 
-So a few years ago we started employing UI/UX (User Interface/User Experience) as a stage in our development and the results have been astronomic. The level of support our clients need for their users to use their systems has dramatically dropped, the joy people have using the technology we build for them is huge. 
+## The Importance of User Experience
 
-The process we go through here is about starting off as cheaply and quickly as possible, usually pen and paper and sketching out where some of the use of flows may go. What some of the elements on the screen may be and where information lives (Information architecture). At every point we are adding clarity and fidelity and stepping our way through answering more questions about user's experience. We then move to low fidelity mockups digital designs in a tool like Sketch. Where you can start to see the shape of the user interface and how the user is going to interact with it. Again we are looking for user research and user feedback. 
+In recent years, there has been a shift in the development world. Because there are so many websites, apps, and programs, people expect a certain standard when it comes to their experience. A product needs to be easy to understand, or a joy to use. If it isn’t, no one is going to get the most out of using it.
 
-At that point and sense checking well it's cheap (cheaper) to do so and then the final stage is full fidelity mockups designs, which show what exactly the system is going to look like and then we are going to build.
+That’s why we started making UI/UX (User Interface/User Experience) an important stage in our development process. As a result? Our clients have needed less support for their users because their systems are easier to understand. People enjoy using them and come back for more. Who doesn’t want that?
+
+## What is Our Process?
+
+Our UI/UX process starts off fairly simply. That seems fitting since we want to make sure your users can navigate your product easily.
+
+As we go through the process, we’ll talk about some of the elements on the screen, as well as information architecture. All the while, we’ll add more clarity and get more answers as to what you want your user’s experience to be. From initial mockups where you can start to see the shape of the user interface, to full-fidelity mockup designs, you’ll have your eye on our process every step of the way. UI/UX for custom software is extremely important, but it still isn’t a “cookie-cutter” process. It’s about what fits your needs and what you think your users really want. We can help you to create something they will love.
