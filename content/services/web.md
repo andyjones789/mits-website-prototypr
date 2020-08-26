@@ -5,15 +5,16 @@ menu:
   main:
     weight: 1
     parent: Services
-draft: true
 
 ---
-This is our bread and butter. We've been building for the web for years and years. We know it inside out. We build "web applications". Think Facebook or where you do your online banking. It's fundamentally different to building websites. Similar technology but usually involves 1000's of hours, rather than 10's or 100's. 
+At Make IT Simple, web applications make us giddy. They’re our bread and butter. They are truly what we do best and what we started with.
 
-## Why Web?
+It’s easy for some people to get confused trying to understand the difference between a web application and a website. Web applications are things like Facebook, or where you do your online banking. Of course, those might look like websites when you’re checking them in your browser, but they are actually applications that take a lot longer to build - we’re talking thousands of hours.
 
-You may have picked up on the "application" part of "web application". You may wonder how that relates to the sort of application you have on your computer like Word or Excel. Well, the are very similar, and it certainly conveys the scope of the undertaking when building one. They are just like desktop applications, they just so happen to run in a Web Browser instead. The reason it's so popular over desktop these days is primarily because it's a (relatively) consistent user experience and rolling out updates is fairly instant. 
+## Why Are Web Applications Beneficial?
 
-Add to that, those little devices we have in our pockets and are glued to also happen to have Web Browsers on them. So build once and you get an audience on desktop and mobile. 
+So, why go for a web application instead of a traditional website, especially if it’s more work? Well, because of that additional work, you’ll simply end up with a better product. To make it simpler to understand, think of web applications the same way you would with a desktop application. But, instead of it only working on your computer, it works online in a web browser.
 
-The advancement of client side frameworks such as Angular, React and Vue have made the whole process quicker, easier and more structured.
+Because of that, web applications are typically consistent for every user, and any updates that need to be rolled out can be done quickly and effectively.
+
+As a bonus, because a majority of people now browse the Internet on their phone through their favorite browsers, your web app could be in the hands (or pockets?) of millions of people across the globe to access at any time.
