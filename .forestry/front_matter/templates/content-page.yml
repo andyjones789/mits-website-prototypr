@@ -10,3 +10,4 @@ fields:
   label: date
 pages:
 - content/services/voicebot.md
+- content/skills/skills.md
