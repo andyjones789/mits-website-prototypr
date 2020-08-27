@@ -3,7 +3,7 @@ title: How We Work
 date: 2020-03-12T16:11:38.000+00:00
 menu:
   main:
-    weight: 4
+    weight: 2
 
 ---
 Most business owners choose to start up a company because they have a specific passion or area of knowledge. More often than not, that area of knowledge doesn’t include things like how to design and build a successful digital product, including web/mobile apps.
